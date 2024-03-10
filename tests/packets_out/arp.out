@@ -1,0 +1,21 @@
+timestamp: 2023-04-17T19:15:23.439+00:00
+src MAC: 52:54:00:de:23:5e
+dst MAC: ff:ff:ff:ff:ff:ff
+frame length: 42 bytes
+src IP: 35.94.192.168
+dst IP: 122.1.255.255
+
+0x0000: ff ff ff ff ff ff 52 54 00 de 23 5e 08 06 00 01 ......RT ..#^....
+0x0010: 08 00 06 04 00 01 52 54 00 de 23 5e c0 a8 7a 01 ......RT ..#^..z.
+0x0020: ff ff ff ff ff ff c0 a8 7a 0b                   ........ z.
+
+timestamp: 2023-04-17T19:15:23.439+00:00
+src MAC: 52:54:00:e0:9a:0b
+dst MAC: 52:54:00:de:23:5e
+frame length: 42 bytes
+src IP: 154.11.192.168
+dst IP: 122.11.82.84
+
+0x0000: 52 54 00 de 23 5e 52 54 00 e0 9a 0b 08 06 00 01 RT..#^RT ........
+0x0010: 08 00 06 04 00 02 52 54 00 e0 9a 0b c0 a8 7a 0b ......RT ......z.
+0x0020: 52 54 00 de 23 5e c0 a8 7a 01                   RT..#^.. z.
