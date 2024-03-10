@@ -1,4 +1,4 @@
-# IPK Project 2 - ZETA: Network Sniffer
+# Network Sniffer - (VUT FIT IPK project 2)
 
 ## Compiling
 On Linux, the `make` command should compile the program correctly, if you have the `libpcap` library installed. The program requires sudo to run on most interface devices.
